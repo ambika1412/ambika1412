@@ -17,9 +17,9 @@ An end-to-end analysis of Swiggy Chennai restaurant data using Python and Power 
 
 ## 🧰 Skills
 
-- **Languages**: Python, SQL, DAX
+- **Languages & Tools**: Python, SQL, DAX, SPSS
 - **Visualization**: Power BI, Excel
-- **Libraries**: Pandas, Seaborn, Plotly, NumPy
+- **Libraries**: Pandas, Matplotlib, Seaborn, Plotly, NumPy
 - **Techniques**: Data Cleaning, Exploratory Data Analysis, Business Insights, Dashboard Design
 
 ---
