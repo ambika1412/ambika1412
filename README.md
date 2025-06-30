@@ -7,7 +7,7 @@
 
 ## 📂 Featured Projects
 
-### 🔸 [Chennai Dining Trends: A Swiggy Data Analysis](https://github.com/ambika1412/Chennai-Dining-Trends-A-Swiggy-Data-Analysis)
+### 🔸 [Chennai Dining Trends: A Swiggy Data Analysis](https://github.com/ambika1412/A-study-on-Emotional-Maturity-and-Problems-of-Adolescents)
 An end-to-end analysis of Swiggy Chennai restaurant data using Python and Power BI  
 > 🧪 Explored cuisine performance, delivery trends, and pricing segments  
 > 🧰 Tools: Pandas, Seaborn, Plotly, Power BI  
