@@ -13,6 +13,11 @@ An end-to-end analysis of Swiggy Chennai restaurant data using Python and Power 
 > 🧰 Tools: Pandas, Seaborn, Plotly, Power BI  
 > 📎 [View Dashboard (Google Drive)](https://drive.google.com/file/d/1_oFt4H8zABMojBhTFDzF9s5hMPJBLyN9/view?usp=drive_link)
 
+> ### 🔹 [Emotional Maturity & Adolescent Problems – A Statistical Study](https://github.com/ambika1412/emotional-maturity-analysis)  
+Quantitative M.Ed thesis analyzing emotional maturity and adolescent challenges among students using SPSS and Excel  
+> 📊 Statistical methods: Descriptive stats, t-tests, ANOVA, regression, correlation  
+> 🧰 Tools: SPSS, Excel   
+
 ---
 
 ## 🧰 Skills
